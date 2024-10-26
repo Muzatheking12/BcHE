@@ -1,1 +1,1 @@
-BuCHE Bioactivity Prediction
+BChE Bioactivity Prediction
